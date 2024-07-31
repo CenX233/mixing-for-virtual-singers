@@ -2,7 +2,7 @@
 
 此页面为文档仓库根目录，如需阅读教程请点击下方链接↓
 
-由于Gitee Pages无法使用并且未独立部署网站，请先[从GitHub Pages页面阅读](https://cenx233.github.io/mixing-for-virtual-singers/)，如无法访问请调整上网姿势。<br>
+由于Gitee Pages无法使用并且未独立部署网站，请先[从GitHub Pages页面阅读](https://cenx233.github.io/mixing-for-virtual-singers/#/CH0/%E6%95%99%E7%A8%8B%E4%BB%8B%E7%BB%8D)，如无法访问请调整上网姿势。<br>
 Gitee仓库目前仅作为镜像。<br>
 ~~[>>点这里开始阅读教程<<](./index.html)~~
 
